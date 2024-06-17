@@ -39,8 +39,19 @@ function Home({ updateActive }) {
           <div className='hero'>
             <div className='des'>
             <h3>Student Mind Matters</h3>
-            <h1>Take Charge of Your Health, Mind & Body</h1>
-            <p>Feeling under the weather and not sure what's wrong? Don't worry, HealSmart is here to be your friendly health detective!</p>
+            <h1>Taking Care of Your Mental Health</h1>
+            <ol className='text-left m-5'>
+    <li>1. Recognizing feelings of overwhelm, anxiety, or stress is the first step.</li>
+    <li>2. Talk to parents, close friends, or trusted mentors for emotional support.</li>
+    <li>3. Sharing your experiences can lighten your mental burden and reduce isolation.</li>
+    <li>4. If needed, seek professional assistance from mental health professionals.</li>
+    <li>5. Colleges often offer free or low-cost mental health services like counseling.</li>
+    <li>6. Take advantage of wellness workshops to maintain mental well-being.</li>
+    <li>7. Engage in activities like exercise, hobbies, or mindfulness for relaxation.</li>
+    <li>8. Practice self-care to maintain balance and reduce stress levels.</li>
+    <li>9. Join or create student groups focused on mental health awareness and support.</li>
+    <li>10. Being part of a community with similar experiences can provide comfort and advice.</li>
+</ol>
             </div>
             <div className='des'>
               <img src={hero} alt=''></img>

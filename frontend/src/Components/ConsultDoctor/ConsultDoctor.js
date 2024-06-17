@@ -85,7 +85,7 @@ function ConsultDoctor({ updateFilter }) {
         <li className="mb-2">If that doesn't work, consult a doctor.</li>
         <li className="mb-2">Below given a few consultency service</li>
         <li className="text-xl underline text-sky-700"><a href="https://www.apollohospitals.com">Apollo Hospital</a></li>
-        <li className="text-xl underline text-sky-700"><a href="https://www.birlahospital.com">Birla Hospital</a></li>
+        <li className="text-xl underline text-sky-700"><a href="https://ckbirlahospitals.com/enquirenow/bmb/ck-birla-hospital-in-kolkata?utm_campaign=18387231836&utm_adgroup=143198264804&utm_keyword=birla%20hospital%20kolkata&utm_source=google&utm_medium=cpc&utm_placement=&utm_location=9299020&utm_matchtype=e&utm_network=g&utm_device=c&utm_creative=635396195910&gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uFjFyTiLS3wPFAtal7BBCmEUZ9ywspnaRwQxrodatVtkWdfpk1X00aAgp5EALw_wcB">BM Birla Hospital</a></li>
     </ul>
 </div>
 
