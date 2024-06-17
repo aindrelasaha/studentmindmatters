@@ -76,94 +76,18 @@ function ConsultDoctor({ updateFilter }) {
 
   return (
     <>
-      {!showDoctorDetails && (
-        <DashboardStyled>
-          <div className="heading">
-            <h2>Consult Doctor</h2>
-          </div>
-          <InnerLayout>
-            <div>
-              <select
-                value={selectedDoctor}
-                onChange={handleFilterChange}
-                className="py-2 px-4 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-purple-500 focus:border-purple-500"
-              >
-                <option value="">Select a filter</option>
-                {filters.map((filter, idx) => (
-                  <option key={`filter-${idx}`} value={filter}>
-                    {filter}
-                  </option>
-                ))}
-              </select>
+     <div className="flex items-center justify-center"  >
+    <ul>
+      
+        <li>Feeling stressed and anxious? </li>
+          <li>Try telling your parents or close friends.</li>
+        <li>If that doesn't work, consult a doctor.</li>
+        <li>Below given a few consultency service</li>
+        <li><a href="https://www.apollohospitals.com">Apollo Hospital</a></li>
+        <li><a href="https://www.birlahospital.com">Birla Hospital</a></li>
+    </ul>
+</div>
 
-              <div className="flex flex-col space-y-4 mt-4 w-full">
-                {filteredItems.map((item, idx) => {
-                  const randomRating = Math.floor(Math.random() * 5) + 1;
-                  return (
-                    <div key={`items-${idx}`} className="w-full lg:flex">
-                      <div
-                        className="h-48 lg:h-auto lg:w-48 flex-none bg-cover bg-center rounded-lg lg:rounded-t-none lg:rounded-lg text-center overflow-hidden"
-                        style={{
-                          backgroundImage: `url(${item.imageUri})`,
-                        }}
-                      ></div>
-
-                      <div className="border-r  border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal w-full">
-                        <div className="mb-8 flex">
-                          <div className="ml-4">
-                            <div className="h-48 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"></div>
-
-                            <p className="text-gray-900 font-bold text-xl mb-2">
-                              {item.name}
-                            </p>
-                            <p className="text-sm text-gray-600 flex items-center">
-                              {item.specialisation}
-                            </p>
-                            <p className="text-gray-700 text-base">
-                              {item.experience}
-                            </p>
-
-                            <div className="flex items-center mt-2">
-                              {[...Array(randomRating)].map((_, i) => (
-                                <FaStar
-                                  key={`star-${i}`}
-                                  className="text-yellow-500"
-                                />
-                              ))}
-                              {[...Array(5 - randomRating)].map((_, i) => (
-                                <FaStar
-                                  key={`star-empty-${i}`}
-                                  className="text-gray-400"
-                                />
-                              ))}
-                            </div>
-                            <div className="flex items-center mt-4">
-                              <div className="text-sm">
-                                <p className="text-gray-900 leading-none">
-                                  {item.address}
-                                </p>
-                                <p className="text-gray-600">{item.timings}</p>
-                                <button
-                                  onClick={() => notify(item)}
-                                  className="bg-purple-500 mt-2 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full"
-                                >
-                                  See All Timings
-                                </button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-            <ToastContainer />
-          </InnerLayout>
-        </DashboardStyled>
-      )}
-      {showDoctorDetails && <DoctorDetails DoctorDet={DoctorDet} />}
     </>
   );
 }

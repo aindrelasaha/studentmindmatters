@@ -13,7 +13,7 @@ function MentalWellness() {
     <MentStyled>
       <InnerLayout className='main'>
         <div className='nav'>
-          <h2>Mind-Bot</h2>
+          <h2>Healing-Bot</h2>
         </div>
         <div className="main-container">
           {!showResult
@@ -61,7 +61,7 @@ function MentalWellness() {
 
 const MentStyled = styled.nav`
   .nav h2{
-    color: darkviolet;
+    color: blue;
     font-size: 25px;
     font-weight: 605;
     margin: 11px 12px;
@@ -98,7 +98,7 @@ const MentStyled = styled.nav`
   }
 
   .main .greet span{
-    background: -webkit-linear-gradient(16deg, #4b90ff, #ff5546);
+    background: -webkit-linear-gradient(16deg, #4b90ff, #0000ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }

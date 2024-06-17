@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import avatar from '../../img/avatar.png'
+
 import { menuItems } from '../../utils/menuItems'
 // import { signout } from '../../utils/Icons'
 
@@ -8,9 +8,9 @@ function Navigation({active, setActive}) {
   return (
     <NavStyled>
         <div className="user-con">
-            <img src={avatar} alt="loading" />
+            
             <div className="text">
-                <p>HealSmart</p>
+              
             </div>
         </div>
         <ul className="menu-items">

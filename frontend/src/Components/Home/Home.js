@@ -38,7 +38,7 @@ function Home({ updateActive }) {
         <HeroSection>
           <div className='hero'>
             <div className='des'>
-            <h3>Heal Smart:</h3>
+            <h3>Student Mind Matters</h3>
             <h1>Take Charge of Your Health, Mind & Body</h1>
             <p>Feeling under the weather and not sure what's wrong? Don't worry, HealSmart is here to be your friendly health detective!</p>
             </div>
@@ -47,23 +47,7 @@ function Home({ updateActive }) {
             </div>
           </div>
         </HeroSection>
-        <CardContainer>
-          <Card onClick={() => handleComponentClick('SymptomAnalysis')}>
-            <h2>Symptom Analysis</h2>
-            <br/>
-            <p>Analyze your symptoms and get assistance powered by AI</p>
-          </Card>
-          <Card onClick={() => handleComponentClick('MentalWellness')}>
-            <h2>Mind-Bot</h2>
-            <br/>
-            <p>Your AI Companion for Mental Wellness and guidance</p>
-          </Card>
-          <Card onClick={() => handleComponentClick('ConsultDoctor')}>
-            <h2>Consult Doctor</h2>
-            <br/>
-            <p>Explore specialists and book appointments hassle-free</p>
-          </Card>
-        </CardContainer>
+       
         </>
       ) : (
         renderSelectedComponent()
@@ -123,7 +107,8 @@ const HeroSection = styled.div`
 
 
   .des img{
-    width: 320px;
+    width: 5000px;
+    height: 6500
     margin-left: 110px;
     margin-top: -45px;
   }

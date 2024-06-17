@@ -1,4 +1,4 @@
-import {home, doctor, mental, medical} from '../utils/Icons'
+import {home, doctor, mental,} from '../utils/Icons'
 export const menuItems = [
     {
         id: 1,
@@ -6,20 +6,14 @@ export const menuItems = [
         icon: home,
         link: '/dashboard',
     },
-    {
-        id: 2,
-        title: "Symptom Analysis",
-        icon: medical,
-        link: "/SymptomAnalysis",
-    },
     {   
-        id: 3,
-        title: "Mind-Bot",
+        id: 2,
+        title: "Healing-Bot",
         icon: mental,
         link: '/MentalWellness',
     },
     {
-        id: 4,
+        id: 3,
         title: "Consult Doctor",
         icon: doctor,
         link: '/ConsultDoctor',
