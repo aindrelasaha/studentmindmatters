@@ -35,7 +35,7 @@ const NavStyled = styled.nav`
     padding: 2rem 1.5rem;
     width: 336px;
     height: 100%;
-    background: rgba(252, 246, 249, 0.78);
+    // background: rgba(252, 246, 249, 0.78);
     border: 3px solid #FFFFFF;
     backdrop-filter: blur(4.5px);
     border-radius: 32px;
@@ -77,7 +77,7 @@ const NavStyled = styled.nav`
             font-weight: 500;
             cursor: pointer;
             transition: all .4s ease-in-out;
-            color: rgba(34, 34, 96, .6);
+            color: blue;
             padding-left: 1rem;
             position: relative;
             i{

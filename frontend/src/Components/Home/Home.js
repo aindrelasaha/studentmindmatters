@@ -88,14 +88,14 @@ const HeroSection = styled.div`
     /* margin-right: 300px; */
       font-size: 30px;
       font-weight:700;
-      color: darkviolet;
+      color: blue;
   }
 
   .des h1{
     align-items: start;
     font-weight: 700;
     font-size: 40px;
-    color: darkviolet;
+    color: royalblue;
   }
 
   .des p{

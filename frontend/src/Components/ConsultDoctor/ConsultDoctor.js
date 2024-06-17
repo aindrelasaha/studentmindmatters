@@ -76,15 +76,16 @@ function ConsultDoctor({ updateFilter }) {
 
   return (
     <>
-     <div className="flex items-center justify-center"  >
-    <ul>
+    
+     <div className="flex items-center justify-center m-2" >
+    <ul className="p-2 ">
       
-        <li>Feeling stressed and anxious? </li>
+        <li className="mb-2">Feeling stressed and anxious? </li>
           <li>Try telling your parents or close friends.</li>
-        <li>If that doesn't work, consult a doctor.</li>
-        <li>Below given a few consultency service</li>
-        <li><a href="https://www.apollohospitals.com">Apollo Hospital</a></li>
-        <li><a href="https://www.birlahospital.com">Birla Hospital</a></li>
+        <li className="mb-2">If that doesn't work, consult a doctor.</li>
+        <li className="mb-2">Below given a few consultency service</li>
+        <li className="text-xl underline text-sky-700"><a href="https://www.apollohospitals.com">Apollo Hospital</a></li>
+        <li className="text-xl underline text-sky-700"><a href="https://www.birlahospital.com">Birla Hospital</a></li>
     </ul>
 </div>
 
