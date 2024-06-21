@@ -1,7 +1,6 @@
 # Student Mind Matters
 ## Introduction
-Student Mind Matters is an application designed to provide help in diagnosis of various diseases, with help of AI and providing a platform for users to directly connect to a doctor. Includes a Chat bot which allows the users, to describe his symptoms using prompts, making the diagnosises faster.
-
+Student Mind Matters is a web application designed to support the mental well-being of college students. Leveraging AI technology, it provides a platform for users to directly connect with doctors. The application features a chatbot that allows users to describe their symptoms, facilitating faster diagnoses.
 
 ## Interface
 1. Home Page
