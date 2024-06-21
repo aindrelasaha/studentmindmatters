@@ -4,24 +4,16 @@ Mind Matters is an application designed to provide help in diagnosis of various 
 
 ## Interface
 1. AI Consultation Interface
-<img src="./screenshots/ai_consultation.png" alt="an image showing AI Consultation page."/>
-2. Consult Doctor Interface
-<img src="./screenshots/consult_doctor.png" alt="an image showing Consult Doctor page."/>
-3. Home Page
-<img src="./screenshots/home_page.png" alt="an image showing Home page."/>
-4. Mind Bot(Chat Bot)
-(without response)
-<img src="./screenshots/mind_bot.png" alt="an image showing Mind Bot page."/>
-(with response)
-<img src="./screenshots/mind_bot_response.png" alt="an image showing Mind Bot Response page."/>
-5. Symptom Analysis Page
-<img src="./screenshots/symptom_analysis.png" alt="an image showing Symptom Analysis page."/>
+
+2. Home Page
+
+3. Mind Bot(Chat Bot)
+
 
 ## Architecture
 1. Machine Learning Process
-<img src="./screenshots/ml_lifecycle.jpeg" alt="An image showing ML Work Flow"/>
+  
 2. Overall Tech stack
-<img src="./screenshots/architecture.jpg" alt="An image showing Architecture"/>
 
 
 ## Features
@@ -31,5 +23,6 @@ Mind Matters is an application designed to provide help in diagnosis of various 
 
 ### Upcoming features
 - [ ] Available on phone.
+- [ ] Consult Doctor Interface.
 - [ ] Free therapy sessions.
-- [ ] different page for doctor appointment.
+- [ ] New section for doctor appointment.
