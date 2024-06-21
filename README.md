@@ -1,13 +1,14 @@
 # Student Mind Matters
 ## Introduction
-Mind Matters is an application designed to provide help in diagnosis of various diseases, with help of AI and providing a platform for users to directly connect to a doctor. Includes a Chat bot which allows the users, to describe his symptoms using prompts, making the diagnosises faster.
+Student Mind Matters is an application designed to provide help in diagnosis of various diseases, with help of AI and providing a platform for users to directly connect to a doctor. Includes a Chat bot which allows the users, to describe his symptoms using prompts, making the diagnosises faster.
+
 
 ## Interface
 1. AI Consultation Interface
 
 2. Home Page
 
-3. Mind Bot(Chat Bot)
+3. Healing Bot(Chat Bot)
 
 
 ## Architecture
