@@ -4,22 +4,16 @@ Student Mind Matters is an application designed to provide help in diagnosis of 
 
 
 ## Interface
-1. AI Consultation Interface
+1. Home Page
 
-2. Home Page
+2. Healing Bot(Chat Bot)
 
-3. Healing Bot(Chat Bot)
+3. AI Consultation Interface
 
-
-## Architecture
-1. Machine Learning Process
-  
-2. Overall Tech stack
 
 
 ## Features
-1. AI assisted diagnosis using Google Gemini API based on prompts given by the user.
-2. Detailed Symptom Analysis
+1. AI assisted diagnosis using Google Gemini API.
 
 
 ### Upcoming features
