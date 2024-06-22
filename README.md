@@ -1,6 +1,6 @@
 # Student Mind Matters
 
-## Introduction 
+## Introduction 💻
 Student Mind Matters is a web application designed to support the mental🧠🌿 well-being of college students. Leveraging AI🤖 technology, it provides a platform for users to directly connect with doctors. The application features a chatbot that allows users to describe their symptoms, facilitating faster diagnoses.
 
 ## Project Description 📜
@@ -19,7 +19,7 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 - *Doctor List:* A list of doctors is provided for users to contact in case of an emergency.
 
 
-# Feature Example
+# Feature Example 🌟✨
 
 # Healing Bot 🤖
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/a19fff8f-3a03-4df0-ba6f-840a7d308b14)
