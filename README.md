@@ -11,7 +11,7 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/2c88610a-f18a-4c55-8b7a-50ab66336a8f)
 
 
-## Features
+## Features 🤖🕸️
 - *AI-assisted diagnosis using Google Gemini API:* The AI technology helps in providing a preliminary diagnosis based on user-inputted symptoms.
 - *Tips for Relaxation:* The application offers tips on how to relax when experiencing anger, denial, or grief.
 - *Symptom Recognition:* Methods are provided to help users recognize if they are experiencing mental health issues.
