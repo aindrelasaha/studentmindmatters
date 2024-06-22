@@ -30,10 +30,10 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/7fc0fc6c-c2b1-43f6-afbb-ec02c9c1531a)
 
 
-## Upcoming Features
-- *Mobile Availability:* The application will soon be available on mobile devices.
+## Upcoming Features⚡⚡
+- *Mobile Availability:* The application will soon be available on mobile devices.📱
 - *Consult Doctor Interface:* An interface for consulting doctors directly through the app.
-- *Free Therapy Sessions:* The option to schedule free therapy sessions.
+- *Free Therapy Sessions:* The option to schedule free therapy sessions.👩🏼‍⚕️
 - *Doctor Appointment Section:* A new section to book appointments with doctors.
 
 
