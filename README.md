@@ -1,4 +1,4 @@
-# Student Mind Matters
+# Student Mind Matters🧠
 
 ## Introduction 💻
 Student Mind Matters is a web application designed to support the mental🧠🌿 well-being of college students. Leveraging AI🤖 technology, it provides a platform for users to directly connect with doctors. The application features a chatbot that allows users to describe their symptoms, facilitating faster diagnoses.
