@@ -10,8 +10,6 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 ## Home Page
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/2c88610a-f18a-4c55-8b7a-50ab66336a8f)
 
-![Healing Bot](path_to_healing_bot_image)
-![AI Consultation Interface](path_to_ai_consultation_interface_image)
 
 ## Features
 - *AI-assisted diagnosis using Google Gemini API:* The AI technology helps in providing a preliminary diagnosis based on user-inputted symptoms.
@@ -22,6 +20,8 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 
 
 # Feature Example
+
+# Healing Bot
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/e7487765-2640-4910-9402-6336f2ac005b)
 ![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/fef59902-1cfe-4d55-97a9-2aedf2cb5dcd)
 
