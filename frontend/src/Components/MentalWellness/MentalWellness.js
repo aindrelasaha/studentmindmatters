@@ -50,7 +50,7 @@ function MentalWellness() {
               </div>
             </div>
             <p className='bottom-info'>
-              Mind-Bot cannot replace professional help. If you need it, it will guide you towards qualified mental health resources.
+              Healing-Bot cannot replace professional help. If you need it, it will guide you towards qualified mental health resources.
             </p>
           </div>
         </div>
