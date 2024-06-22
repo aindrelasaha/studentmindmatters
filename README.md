@@ -22,8 +22,9 @@ Student Mind Matters offers an intuitive interface and a variety of features aim
 # Feature Example
 
 # Healing Bot 🤖
-![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/e7487765-2640-4910-9402-6336f2ac005b)
-![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/fef59902-1cfe-4d55-97a9-2aedf2cb5dcd)
+![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/a19fff8f-3a03-4df0-ba6f-840a7d308b14)
+
+![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/ccbe0a88-7ceb-4c74-9b6f-b57887209f52)
 
 
 # Doctor List 🩺
