@@ -7,7 +7,9 @@ Student Mind Matters is a web application designed to support the mental well-be
 Student Mind Matters offers an intuitive interface and a variety of features aimed at helping students manage their mental health effectively. The application ensures that students have access to essential mental health resources and professional support when needed.
 
 
-![Home Page](path_to_home_page_image)
+![Home Page]
+![image](https://github.com/aindrelasaha/studentmindmatters/assets/126545390/2c88610a-f18a-4c55-8b7a-50ab66336a8f)
+
 ![Healing Bot](path_to_healing_bot_image)
 ![AI Consultation Interface](path_to_ai_consultation_interface_image)
 
