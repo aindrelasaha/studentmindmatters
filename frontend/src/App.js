@@ -48,7 +48,7 @@ const AppStyled = styled.div`
   position: relative;
   main {
     flex: 1;
-    background: #fff;
+    background: #957ae8ff;
     backdrop-filter: blur(4.5px);
 
     overflow-x: hidden;
